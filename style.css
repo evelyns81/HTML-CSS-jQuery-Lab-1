@@ -9,3 +9,9 @@ header {
   font-size: 35px;
   color: white;
 }
+footer {
+  background-color: ##FAFADE;
+  padding: 10px;
+  text-align: center;
+  color: white;
+}
